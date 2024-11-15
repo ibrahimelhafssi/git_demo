@@ -1,3 +1,7 @@
 things to 
 practice java
 practice git
+
+
+adding more files from github 
+this insure we are making changes
